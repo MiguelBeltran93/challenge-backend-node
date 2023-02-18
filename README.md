@@ -5,7 +5,6 @@ Comenzando 🚀
 Para emprezar se descarga el proyecto
 - se clona
 - git clone url-proyecto<>
-- se pasa a la rama de desarrollo (develop)
 - instalar dependencias
 - npm i
 - ya se puede ejecutar el proyecto
