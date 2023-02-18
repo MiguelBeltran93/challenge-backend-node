@@ -23,12 +23,6 @@ Instalación 🔧
 - ya se puede ejecutar el proyecto
 - npm start en consola
 
-![image](https://user-images.githubusercontent.com/43224704/112668960-1ca24080-8e2d-11eb-9084-70dbe7af5c71.png)
-
-
-y abrir en el navegador localhost:3001
-![image](https://user-images.githubusercontent.com/43224704/112669076-43f90d80-8e2d-11eb-88f1-53d804304577.png)
-
 en la ruta
 /api-docs/
 
